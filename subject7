@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="notice" id="notice">
-		<div class="horn"><img src="images/a15.png"/></div>
+		<div class="horn"><img src="a15.png"/></div>
 		<div class="word">
 			<div id="w1" style="margin-left:800px">
 				<p>[温馨提示]最近有不少不法分子在网上骗人，请注意！！！</p>
@@ -17,13 +17,13 @@
 	</div>
 	<div class="box" id="box">
 		<div class="slider" id="slider">
-			<div class="slide"><img src="images/b5.png" alt=""></div>
-			<div class="slide"><img src="images/b1.png" alt=""></div>
-			<div class="slide"><img src="images/b2.png" alt=""></div>
-			<div class="slide"><img src="images/b3.png" alt=""></div>
-			<div class="slide"><img src="images/b4.png" alt=""></div>
-			<div class="slide"><img src="images/b5.png" alt=""></div>
-			<div class="slide"><img src="images/b1.png" alt=""></div>
+			<div class="slide"><img src="b5.png" alt=""></div>
+			<div class="slide"><img src="b1.png" alt=""></div>
+			<div class="slide"><img src="b2.png" alt=""></div>
+			<div class="slide"><img src="b3.png" alt=""></div>
+			<div class="slide"><img src="b4.png" alt=""></div>
+			<div class="slide"><img src="b5.png" alt=""></div>
+			<div class="slide"><img src="b1.png" alt=""></div>
 		</div>
 		<span id="left"><</span>
 		<span id="right">></span>
